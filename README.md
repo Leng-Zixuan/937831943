@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @LengZixuan
+- 👀 I’m interested in is how do you create a very modern art style Web application
+- 🌱 I’m currently learning build tools for front-end engineering
+- 💞️ I’m looking to make good friends here, learn technology and share technology with you
+- 📫 My email is jxy13164683568@163.com 
+-    Looking forward to hearing from you
+
+<!---
+937831943/937831943 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LengZixuan
-- 👀 I’m interested in is how do you create a very modern art style Web application
+- 👀 I am very interested in front-end engineering construction
 - 🌱 I’m currently learning build tools for front-end engineering
 - 💞️ I’m looking to make good friends here, learn technology and share technology with you
 - 📫 My email is jxy13164683568@163.com 
